@@ -1,0 +1,32 @@
+# IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# PHP / ThinkPHP
+/vendor/
+/runtime/
+*.log
+AGENTS.md
+# Node / UniApp
+/wx_app/node_modules/
+/wx_app/unpackage/
+/wx_app/dist/
+
+# Rust / district-service
+/district-service/target/
+/district-service/districts.db
+/district-service/uploads/
+
+# Env (sensitive)
+# .env 已被项目使用，如需忽略可取消下面注释
+# .env
