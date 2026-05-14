@@ -23,9 +23,9 @@ AGENTS.md
 /wx_app/dist/
 
 # Rust / district-service
-/district-service/target/
-/district-service/districts.db
-/district-service/uploads/
+/target/
+districts.db
+/uploads/
 
 # Env (sensitive)
 # .env 已被项目使用，如需忽略可取消下面注释
