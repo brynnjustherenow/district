@@ -78,7 +78,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 </div>
 <div id="modalContainer"></div>
 <script>
-const API = '/api';
+const API = '/district/api';
 const API_KEY = 'jjjshop-district-2026';
 let allData = [];
 
